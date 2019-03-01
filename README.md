@@ -11,4 +11,3 @@ https://pytorch.org/
  
 Files:  
 [main notebook](https://github.com/Finwion/Food-101-FastAI/blob/master/food-101.ipynb)  
-food-101-test-e30-512.pth - saved checkpoint for a model trained with 30 epochs
