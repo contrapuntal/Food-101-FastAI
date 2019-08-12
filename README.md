@@ -10,4 +10,4 @@ https://docs.fast.ai/
 https://pytorch.org/ 
  
 Files:  
-[main notebook](https://github.com/Finwion/Food-101-FastAI/blob/master/food-101.ipynb)  
+[main notebook](https://github.com/Contrapuntal/Food-101-FastAI/blob/master/food-101.ipynb)  
